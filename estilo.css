@@ -1,0 +1,142 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*========== GLOBAIS*/
+.secao
+{
+    padding: 30px 0;
+    text-align: center;
+}
+.paragrafo
+{
+    margin: 10px auto;
+    text-align: justify;
+    width: 980px;
+    font-size: 18px;
+    line-height: 28px;
+}
+/*======== PRIMEIRA SEÇÃO*/
+.secao-cabecalho
+{
+    background-color: #afddfb;
+}
+.secao-cabecalho img
+{
+    width: 150px;
+}
+.secao-cabecalho .link    
+{
+    text-decoration: none;
+    text-align: center;
+    width: 700px;
+}
+.link a 
+{
+    width: 100%;
+    text-decoration: none;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    margin: 0 10px;
+}
+
+/*=========SEGUNDA SEÇÃO*/
+.imagem
+{
+    margin-top: 50px;
+    padding-top: 0;
+}
+.imagem img 
+{
+    border-radius: 30px;
+}
+.subtitulo-1
+{
+    color: #1c81c0;
+    font-weight: 700;
+}
+
+/*==========TERCEIRA SEÇÃO*/
+.titulo
+{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+.subtitulo
+{
+    color: #1c81c0;
+    font-weight: normal;
+}
+.secao .imagem-secao3, .secao-5 img
+{
+    width: 450px;
+}
+.paragrafo .texto-blue
+{
+    color: #1d80c1;
+}
+
+.secao4, .secao-6
+{
+    background-color: #1d80c1;
+}
+.secao4 h2, .paragrafo-4
+{
+    color: white;
+    font-size: 28px;
+}
+.secao4 .paragrafo-4
+{
+    font-size: 22px;
+    line-height: 42px;
+    width: 700px;
+    text-align: center;
+}
+.paragrafo-4 .texto-amarelo, .paragrafo-6 .texto-amarelo
+{
+    color: #fff81b;
+}
+.lista-4
+{
+    margin: 40px auto;
+    color: #fff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+    width: 135px;
+}
+.secao-5 .subtitulo
+{
+    font-weight: bold;
+}
+
+
+.secao-6 .subtitulo
+{
+    font-weight: bold;
+    color: #fff;
+}
+.secao-6 .paragrafo-6
+{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin: 30px auto;
+}
+.item-lista 
+{
+    background-color: white;
+    width: 210px;
+    margin: 10px auto;
+    border-radius: 30px;
+    padding: 10px;
+}
+.lista-6 a
+{
+    text-decoration: none;
+    color: black;
+}
+
+
